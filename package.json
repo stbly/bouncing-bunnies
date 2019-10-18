@@ -1,0 +1,19 @@
+{
+  "name": "bouncing-bunnies",
+  "version": "0.0.1",
+  "description": "Game featuring bunnies bouncing to ridiculous heights with trampolines and power-ups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stbly/bouncing-bunnies.git"
+  },
+  "author": "LFL contributors",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stbly/bouncing-bunnies/issues"
+  },
+  "homepage": "https://github.com/stbly/bouncing-bunnies#readme"
+}
