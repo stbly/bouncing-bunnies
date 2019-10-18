@@ -4,7 +4,7 @@
   "description": "Game featuring bunnies bouncing to ridiculous heights with trampolines and power-ups",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/stbly/bouncing-bunnies/issues"
   },
-  "homepage": "https://github.com/stbly/bouncing-bunnies#readme"
+  "homepage": "https://github.com/stbly/bouncing-bunnies#readme",
 }
