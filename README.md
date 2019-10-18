@@ -6,4 +6,6 @@ Let's use GitHub's issue feature to create tickets.
 
 # Running the Project
 
-`npm start`
+To run the project locally, run `npm install` and then `npm run dev`.
+
+To build the project, run `npm run build`.
